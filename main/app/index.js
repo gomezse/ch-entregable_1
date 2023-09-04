@@ -1,4 +1,4 @@
-import('./ProductManager.mjs')
+import('../module/ProductManager.mjs')
     .then((module) => {
         const ProductManager = module.default;
 
